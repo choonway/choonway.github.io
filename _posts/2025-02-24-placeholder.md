@@ -1,6 +1,6 @@
 ---
 layout: post
-title: start
+title: placeholder
 ---
 
-hello there.
+hello there. stay tuned.
