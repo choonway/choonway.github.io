@@ -13,8 +13,8 @@ I had my fair share of playing with these when I was younger. With now upgrade e
 2. Blocks can be 3D printed via FFF in vase mode.
 3. Any voxel shape can be assembled, as long as it is connected.
 
-The solution I have come up with is documented at [Printables](https://www.printables.com/model/192718-chips-polycube-construction-set).
+The solution I have come up with is documented at [Printables ChIPs - Polycube Construction Set](https://www.printables.com/model/192718-chips-polycube-construction-set). Variations, as well as FreeCAD files can be obtained [here](https://github.com/choonway/ChIPs)
 
-So while the writeup I have on that site back in 2022 was rather brief and to the point of just letting people play with it. Now I have time to write something more about it.
+This was done during the tail end of the COVID-19, so by 2022 I just wanted to get it out there, as there were a couple of urgent jobs that demanded my time and I left it to languish.
 
-So actually, to be complete about the voxel shape, you need a fifth piece
+Looks like it didn't really pick up, but since now I have made time this and some other unpublished ideas can get some work done on it. :grin:
