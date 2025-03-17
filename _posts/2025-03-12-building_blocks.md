@@ -3,8 +3,18 @@ layout: post
 title: 3D printed Building Blocks
 ---
 
-When I was younger and less knowledgable in the ways of Engineering, construction sets has always been a way to give the nascent ideas in my head a phyiscal form and to build further from it. However, I quickly came into limitations very well known to those in the craft.
+*[FFF]: Fused Filament Fabrication
 
-The first of which, is that you will eventually run out of parts you need. These parts were not exactly cheap that you could by them by the tens of kilos - parents facing financal constraints often find off-brand substitutes, much to the slight dismay of the child when the quality of the fit is a little off. On the bright side, it forces the practitioner to innovate and find alternative combinations but still, the limits are reached too easily.
+This is my (humble) take at redesigning the rather ubiquitous construction block.
 
-The second of which
+I had my fair share of playing with these when I was younger. With now upgrade engineering knowledge and new tools I set about creating one that solves the pet peeves I had with the original.
+
+1. Minimal number of unique blocks.
+2. Blocks can be 3D printed via FFF in vase mode.
+3. Any voxel shape can be assembled, as long as it is connected.
+
+The solution I have come up with is documented at [Printables](https://www.printables.com/model/192718-chips-polycube-construction-set).
+
+So while the writeup I have on that site back in 2022 was rather brief and to the point of just letting people play with it. Now I have time to write something more about it.
+
+So actually, to be complete about the voxel shape, you need a fifth piece
