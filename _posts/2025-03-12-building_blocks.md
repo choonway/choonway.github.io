@@ -17,4 +17,4 @@ The solution I have come up with is documented at [Printables ChIPs - Polycube C
 
 This was done during the tail end of the COVID-19, so by 2022 I just wanted to get it out there, as there were a couple of urgent jobs that demanded my time and I left it to languish.
 
-Looks like it didn't really pick up, but since now I have made time this and some other unpublished ideas can get some work done on it. :grin:
+Looks like it didn't really pick up, but since now I have made myself some time, this and some other unpublished ideas can get some work done on it. :grin:
