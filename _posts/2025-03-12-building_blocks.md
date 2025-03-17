@@ -3,9 +3,9 @@ layout: post
 title: 3D printed Building Blocks
 ---
 
-*[FFF]: Fused Filament Fabrication
-
 This is my (humble) take at redesigning the rather ubiquitous construction block.
+
+*[FFF]: Fused Filament Fabrication
 
 I had my fair share of playing with these when I was younger. With now upgrade engineering knowledge and new tools I set about creating one that solves the pet peeves I had with the original.
 
